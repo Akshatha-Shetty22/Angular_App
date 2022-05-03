@@ -1,0 +1,120 @@
+{
+  "posts": [
+    {
+      "id": 1650372059379,
+      "author": "Akshatha Shetty",
+      "title": "Vada at Swagath Hotel",
+      "content": "Vada or bada is a category of savoury fried snacks from India. Different types of vadas can be described variously as fritters, cutlets, doughnuts, or dumplings. Alternative names for this food include wada, vade, vadai, wadeh and bara.",
+      "image": "https://farm1.staticflickr.com/320/18912568232_686613c78c_o.jpg",
+      "createdAt": "2022-04-30T12:40:59.379Z",
+      "userid": "akshatha@gmail.comakshatha"
+    },
+    {
+      "id": 1650442820008,
+      "author": "Akshatha Shetty",
+      "title": "Dominos Pizza",
+      "content": "Pizza is a dish of Italian origin consisting of a usually round, flat base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients, which is then baked at a high temperature, traditionally in a wood-fired oven. Amazing!",
+      "image": "https://static.toiimg.com/thumb/56933159.cms?imgsize=686279&width=800&height=800",
+      "createdAt": "2022-04-30T08:20:20.008Z",
+      "userid": "akshatha@gmail.comakshatha"
+    },
+    {
+      "id": 1650443047894,
+      "author": "Pavan Rai",
+      "title": "Masala Dosa at Iyengars",
+      "content": "Masala dosa is a variation of the popular South Indian dosa, which has its origins in Tuluva Udupi cuisine of Karnataka. It is made from rice, lentils, potato, fenugreek, ghee and curry leaves, and served with chutneys and sambar. Must try!",
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/masala-dosa-2.jpg",
+      "createdAt": "2022-04-30T08:24:31.529Z",
+      "userid": "pavan@gmail.compavan"
+    },
+    {
+      "id": 1650443631342,
+      "author": "Pavan Rai",
+      "title": "Ideal Icecream Parlor",
+      "content": "Mangaluru is truly the pearl of the Arabian Sea and guardian of the West Coast. It is a land of exquisite cultures, charms and cuisines. There are so many exciting things to see,any visit to the city would be incomplete without Ideal Ice Cream.",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/15/d4/a7/45/img-20181224-164627-largejpg.jpg",
+      "createdAt": "2022-05-01T09:10:47.319Z",
+      "userid": "pavan@gmail.compavan"
+    },
+    {
+      "id": 1650443760140,
+      "author": "Pavan Rai",
+      "title": "Idli at varanga",
+      "content": "Idli or idly are a type of savoury rice cake, originating from the Indian subcontinent, popular as breakfast foods in Southern India and in Sri Lanka. The cakes are made by steaming a batter consisting of fermented black lentils and rice",
+      "image": "https://static.toiimg.com/thumb/53239358.cms?imgsize=176260&width=800&height=800",
+      "createdAt": "2022-05-02T08:36:00.140Z",
+      "userid": "pavan@gmail.compavan"
+    },
+    {
+      "id": 1650445543703,
+      "author": "Akshatha Shetty",
+      "title": "Panipuri",
+      "content": "Panipuri or phuchka or gupchup or golgappa or pani ke patashe is a type of snack that originated in India, and is one of the most common street foods there.You must try panipuri if you visit Mangalore.You can find many stalls.Must try!",
+      "image": "https://cdn1.foodviva.com/static-content/food-images/snacks-recipes/pani-puri/pani-puri.jpg",
+      "createdAt": "2022-05-01T10:04:08.150Z",
+      "userid": "akshatha@gmail.comakshatha"
+    },
+    {
+      "id": 1651226826774,
+      "author": "Aishwarya Shetty",
+      "title": "Momos at Tibet Restaurant",
+      "content": "Momo is a type of dumpling originally from Tibet which is prominently found in the cuisines of Tibet and Nepal, as well as in the Indian states of Ladakh and Sikkim. It has evolved and spread to many countries who have adapted it and modified as per their preference. ",
+      "image": "https://www.foodieist.com/wp-content/uploads/2020/12/veg-momos-recipe-672x372.jpg",
+      "createdAt": "2022-05-02T10:07:06.774Z",
+      "userid": "aishu@gmail.comaishu"
+    },
+    {
+      "id": 1651465290444,
+      "author": "Akshatha Shetty",
+      "title": "Biriyani at GoldFinch Hotel",
+      "content": "Biryani is a mixed rice dish originating among the Muslims of the Indian subcontinent. It is made with Indian spices, rice, and a meat form. Vegetarian versions of the dish replace meat with vegetables such as potatoes. Must try!!!",
+      "image": "https://vegveganmeat.com/wp-content/uploads/2020/12/mushroom-biryani-kalan-biriyani-chettinad-south-indian-style-720x540.jpg",
+      "createdAt": "2022-05-02T04:23:08.406Z",
+      "userid": "akshatha@gmail.comakshatha"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1
+    },
+    {
+      "name": "Akshu",
+      "email": "akshu@gmail.com",
+      "subject": "message",
+      "message": "Needed help with my post",
+      "id": 2
+    }
+  ],
+  "profile": [
+    {
+      "id": 1650392204944,
+      "name": "Akshu",
+      "email": "akshu@gmail.com",
+      "password": "akshu"
+    },
+    {
+      "id": 1650392505293,
+      "name": "Pavan Rai",
+      "email": "pavan@gmail.com",
+      "password": "pavan"
+    },
+    {
+      "id": 1650445410466,
+      "name": "Akshatha Shetty",
+      "email": "akshatha@gmail.com",
+      "password": "akshatha"
+    },
+    {
+      "id": 1650446268281,
+      "name": "Aishwarya Shetty",
+      "email": "aishu@gmail.com",
+      "password": "aishu"
+    },
+    {
+      "id": 1651226719458,
+      "name": "Aishwarya Shetty",
+      "email": "aishu@gmail.com",
+      "password": "aishu"
+    }
+  ]
+}
